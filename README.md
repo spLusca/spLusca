@@ -3,8 +3,6 @@
 
 #### Social Links
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](syncopation#7321)
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucaspinheiros2@hotmail.com)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spLusca/)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=spLusca&show_icons=true&theme=tokyonight)
