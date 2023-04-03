@@ -3,7 +3,9 @@
 
 #### Social Links
 
+![Email](https://img.shields.io/badge/lucaspinheiros2@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/spLusca/)
+![Discord](ttps://img.shields.io/badge/syncopation#7321-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=spLusca&show_icons=true&theme=tokyonight)
 
